@@ -1,0 +1,94 @@
+------------------------------      NumPy     --------------------------------
+
+1. Python NumPy Cheat Sheet
+
+
+2. NumPy (Numerical Python)
+
+     a. What is NumPy?
+     b. Why use NumPy?
+     c. Advantages of NumPy over List?
+
+3. Array / Multidimensional Array (ND Array)
+
+     a. Creating Array
+
+     b. Data Types
+
+     c. Attributes
+
+
+4. Properties
+
+     a. size – Returns number of elements in array
+
+     b. shape – Returns dimensions of array(rows, columns)     -----     Reshape and Resize
+
+     c. array.dtype – Returns type of elements in array
+
+
+5. Array Mathematics (Arithmetic Operations)
+
+     a. Addition: np.add(a,b)
+
+     b. Subtraction: np.subtract(a,b)
+
+     c. Multiplication: np.multiply(a,b)
+
+     d. Division: np.divide(a,b)
+
+     e. Exponentiation: np.exp(a)
+
+     f. Square Root: np.sqrt(b)
+
+
+6. Operations (Array Manipulation)
+
+     a. Copying
+
+     b. Sorting
+
+     c. Adding    (append, insert)
+
+     d. Removing  (delete)               -----    Insert and Remove (Elements from Array)
+
+     e. Combining (concatenate)
+
+     f. Splitting                        -----    Split and Combining (Concatenate)
+
+     g. Indexing & Advanced Indexing
+
+     h. Subsetting
+
+     i. Slicing
+
+     j. Stack
+
+     k. arange
+
+     l. linspace
+
+     m. Full, Zeros & Ones
+
+     n. Random
+
+     o. Broadcasting
+
+     p. Flatten & Ravel
+
+     q. Transpose and Swapaxes
+
+
+7. Functions
+
+     a. Array-wise Sum: a.sum()
+
+     b. Array-wise min value: a.min()
+
+     c. Array row max value: a.max(axis=0)
+
+     d. Mean: a.mean()
+
+     e. Median: a.median()
+
+   

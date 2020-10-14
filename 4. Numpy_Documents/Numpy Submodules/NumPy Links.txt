@@ -1,0 +1,55 @@
+
+----------------------------    NUMPY     ------------------------------------
+
+1. Why Numpy required?
+
+        https://www.geeksforgeeks.org/numpy-indexing/
+
+
+        https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/
+
+
+        https://www.quora.com/In-Python-what-is-NumPy-How-is-it-used
+
+        
+        https://www.quora.com/What-are-the-use-cases-for-NumPy
+
+        
+        https://www.youtube.com/watch?v=8JfDAm9y_7s#action=share        (Edureka Numpy tutorial)
+
+        
+        https://www.edureka.co/blog/python-numpy-tutorial/              (Edureka Numpy tutorial; youtube)
+
+
+        https://www.w3resource.com/python-exercises/numpy/index.php     (Numpy exercises with solution)
+
+
+        https://www.tutorialspoint.com/numpy/numpy_linear_algebra.htm   (Learn Numpy) --- Covers entire Numpy
+
+
+        https://www.tutorialgateway.org/python-numpy-array/             (Create an Array in Python using the array function)
+
+
+2. Arithmetic Operation in NumPy Arrays
+
+        https://www.youtube.com/watch?v=cNIWve1xEU4
+
+
+3. slicing/stacking arrays, indexing with boolean arrays
+
+
+        https://www.youtube.com/watch?v=_d_Ka-ks2a0      ---- Codebasics
+
+
+4. Data Manipulation
+
+        https://www.youtube.com/watch?v=KehyltXMrZE     (Array Manipulation | reshape and resize)
+
+
+5. Interview Questions (Numpy)
+
+        https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+
+        https://www.hackerrank.com/domains/python/numpy/page/1
+
+        https://www.edureka.co/blog/interview-questions/python-interview-questions/

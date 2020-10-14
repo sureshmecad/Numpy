@@ -1,0 +1,29 @@
+Youtube :
+
+
+https://www.youtube.com/watch?v=X5BX0B-YAC0
+
+https://www.youtube.com/watch?v=Qmhjg8qVbX8
+
+https://www.youtube.com/watch?v=QHWJONiTbmQ
+
+https://www.youtube.com/watch?v=vh525RjO6C0&t=409s  (Numpy and Inbuilt Functions Tutorial) Krish Naik
+
+https://www.youtube.com/watch?v=QUClKFFn1Vk         (Pandas, Data Frame and Data Series) Krish Naik
+
+https://www.youtube.com/watch?v=Ea_KAcdv1vs         (Exploratory Data Analysis(EDA) of Titanic dataset)
+
+
+Github :
+
+https://github.com/codePerfectPlus/python-codes
+
+https://github.com/ukgovdatascience/Python-for-Analysts
+
+
+
+Numpy :
+
+https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
+
+https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54
